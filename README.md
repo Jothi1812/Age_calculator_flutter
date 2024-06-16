@@ -1,5 +1,5 @@
 ﻿# Age_calculator_flutter
-                     An interactive mobile app built with Flutter to calculate age based on the selected date of birth.
+     An interactive mobile app built with Flutter to calculate age based on the selected date of birth.
 
 
 **Features
